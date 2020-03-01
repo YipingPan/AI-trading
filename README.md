@@ -1,3 +1,5 @@
+# AI stock trading
+
 Hello,
 
 This is the repository for AI stock trading system project in the course Big Data Analytics 6895.
